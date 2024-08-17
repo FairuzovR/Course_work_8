@@ -1,0 +1,20 @@
+[
+{
+  "model": "users.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$jXA6pmSK0jcKiE5MGdKTkf$GeTcfD+ZHE3Ts0KGDRTIGZJCHfT/zavzUmYr1AW2RS0=",
+    "last_login": "2024-07-22T20:53:19.297Z",
+    "email": "admin@su.su",
+    "phone": null,
+    "city": null,
+    "avatar": "",
+    "tg_chat_id": "1188864145",
+    "is_active": true,
+    "is_staff": true,
+    "is_superuser": true,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]

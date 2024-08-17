@@ -1,0 +1,66 @@
+[
+{
+  "model": "habits.habit",
+  "pk": 1,
+  "fields": {
+    "owner": 4,
+    "place": "За столом",
+    "time": "2024-07-23T06:32:12Z",
+    "action": "Прыгнуть",
+    "pleasant_habit_sign": false,
+    "related_habit": null,
+    "periodicity": 3,
+    "reward": "Орех",
+    "duration": "00:02:00",
+    "is_published": true
+  }
+},
+{
+  "model": "habits.habit",
+  "pk": 2,
+  "fields": {
+    "owner": 4,
+    "place": "Во дворе",
+    "time": "2024-07-23T06:35:28Z",
+    "action": "Пробежаться",
+    "pleasant_habit_sign": false,
+    "related_habit": 1,
+    "periodicity": 6,
+    "reward": "Расслабление",
+    "duration": "00:02:00",
+    "is_published": true
+  }
+},
+{
+  "model": "habits.habit",
+  "pk": 3,
+  "fields": {
+    "owner": 4,
+    "place": "на скамейке",
+    "time": "2024-07-23T06:36:32Z",
+    "action": "Почесать репу",
+    "pleasant_habit_sign": false,
+    "related_habit": 1,
+    "periodicity": 1,
+    "reward": "Орех",
+    "duration": "00:02:00",
+    "is_published": true
+  }
+},
+{
+  "model": "habits.habit",
+  "pk": 4,
+  "fields": {
+    "owner": 4,
+    "place": "test",
+    "time": "2024-07-23T12:34:56.789Z",
+    "action": "123123",
+    "pleasant_habit_sign": true,
+    "related_habit": null,
+    "periodicity": 7,
+    "reward": "Some",
+    "duration": "00:01:22",
+    "is_published": false
+  }
+}
+]
