@@ -66,5 +66,6 @@ coverage run --source='.' manage.py test
 ```bash
 coverage report
 ```
-## Запуска Docker Compose
-```docker-compose up -d --build
+## Запуск Docker Compose
+``````bash
+docker-compose up -d --build
